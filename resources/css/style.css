@@ -9,10 +9,22 @@ h1 {
   font-size: 50px;
   text-align: center;
 }
-h3
-{
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+a{
   color: Aquamarine;
   font-size: 16px;
-  text-align: center;
-  font-weight: bold;
+}
+footer p{
+  text-align: right;
+  color: gray;
 }
